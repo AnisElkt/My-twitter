@@ -1,5 +1,5 @@
 My twitter
-- Réplique de Twitter (Javascript, PHP, HTML & CSS, Tailwind)
+- Réplique de Twitter (Javascript, PHP, HTML & CSS, Tailwind) Ajax Jquery
 
 Fonctionnalités 
 - Inscription
