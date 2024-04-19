@@ -7,7 +7,7 @@ Fonctionnalités
 - Fil d'actualité
 - Pouvoir Tweeter 
 - Ajout d'hashtag
-- Pouvoir s'abonné a un utilisateur
+- Pouvoir s'abonné à un utilisateur
 - Voir son profil
 - Editer les informations de son profil
-
+- Pouvoir liker un post
